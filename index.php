@@ -10,7 +10,7 @@
 
 
         //FUNCIÓN PARA SUMAR DOS NUMEROS
-        function sumar($numero2){
+        function sumar(){
 
             $suma = $numero1 + $numero2;
             $operacion = "Suma";
