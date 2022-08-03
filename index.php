@@ -4,13 +4,13 @@
 
 
         function resta(){
-            
+
         }
 
 
 
         //FUNCIÓN PARA SUMAR DOS NUMEROS
-        function sumar($numero1,$numero2){
+        function sumar($numero2){
 
             $suma = $numero1 + $numero2;
             $operacion = "Suma";
